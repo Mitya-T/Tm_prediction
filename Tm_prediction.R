@@ -380,4 +380,3 @@ cat("\n" %+% strrep("=", 70) %+% "\n")
 
 
 
-df_sub$type
